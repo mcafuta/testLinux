@@ -7,5 +7,4 @@ temp = (hours*60 + mins)*60 +secs
 PRINT *, temp, 'seconds'
 END PROGRAM lala
 
-!Random comment 2
 !int test
