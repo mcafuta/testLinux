@@ -8,3 +8,4 @@ PRINT *, temp, 'seconds'
 END PROGRAM lala
 
 !Random comment 2
+!int test
