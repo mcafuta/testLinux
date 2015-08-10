@@ -8,3 +8,4 @@ PRINT *, temp, 'seconds'
 END PROGRAM lala
 
 !int test
+!
