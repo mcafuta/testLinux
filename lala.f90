@@ -7,5 +7,4 @@ temp = (hours*60 + mins)*60 +secs
 PRINT *, temp, 'seconds'
 END PROGRAM lala
 
-!int test
-!!i hate
+!init test
